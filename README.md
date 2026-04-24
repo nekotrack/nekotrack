@@ -1,7 +1,7 @@
 
 ![nekotrack banner](https://github.com/user-attachments/assets/2079feec-ee00-4cc7-a780-dc0d3358dbd9)
 
-** nekotrack ** — named after the Japanese wheelbarrow, which leaves a single line like a cat's footprint.
+**nekotrack** — named after the Japanese wheelbarrow, which leaves a single line like a cat's footprint.
 <!--
 **nekotrack/nekotrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
