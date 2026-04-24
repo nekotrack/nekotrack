@@ -1,5 +1,5 @@
 
-[nekotrack banner] https://github.com/nekotrack/nekotrack/issues/1#issue-4324123342
+[nekotrack banner] [https://github.com/nekotrack/nekotrack/issues/1#issue-4324123342](https://github.com/user-attachments/assets/2079feec-ee00-4cc7-a780-dc0d3358dbd9)
 
 <!--
 **nekotrack/nekotrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
