@@ -7,7 +7,7 @@ Note : https://note.com/nekotrack
 
 Zenn : https://zenn.dev/nekotrack
 
-Research: perceptual color science / OKLCH
+Research: perceptual color science / Oklch+
 
 <!--
 **nekotrack/nekotrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
