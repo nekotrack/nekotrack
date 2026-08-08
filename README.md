@@ -3,6 +3,9 @@
 
 **nekotrack** — named after the Japanese wheelbarrow, which leaves a single line like a cat's footprint.
 
+Note : https://note.com/nekotrack
+Zenn : https://zenn.dev/nekotrack
+
 Research: perceptual color science / OKLCH
 
 <!--
